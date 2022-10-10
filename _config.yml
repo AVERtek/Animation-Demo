@@ -1,0 +1,21 @@
+#title: AVERtek # your name photo (or website title) here
+logo1: "images/BAHAY-LOGO-Grn-Gld-2022.png? raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <h1 style="color:#A28D5B;"><p style="text-align:center;"><b>LUXURY APARTMENTS</h1></b></p>
+  <h2 style="color:#215732;"><em><p style="text-align:center;"><b>In LA's Iconic Echo Park Near Dodger Stadium</h2></em></b></p>
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>LIFESTYLE</b><a href="https://livebahay.com/gallery/video/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://livebahay.com/gallery/video/?utm_source=AVERtek&utm_medium=AR'); return false;"<b> EXPERIENCE</b></h2></a>
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>WALK THE 4D/AR</b><a href="https://avertek.github.io/Alexan-Bahay-1Bd-2/" onclick="getOutboundLink('https://avertek.github.io/Alexan-Bahay-1Bd-2/'); return false;"<b> FLOORPLAN</b></h2></a> 
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>SELECT YOUR PERFECT</b><a href="https://livebahay.com/floor-plans/map/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://livebahay.com/floor-plans/map/?utm_source=AVERtek&utm_medium=AR'); return false;"<b> NEW HOME NOW</b><h/2></a>
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>SIGN-UP FOR VIP TOUR</b><a href="https://livebahay.com/special/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://livebahay.com/special/?utm_source=AVERtek&utm_medium=AR'); return false;"<b> AND PRIZE DRAWING</b></h2></a> 
+  <h2 style="text-align: center;" markdown="1"><a href="tel:+18333101450"><b>833-310-1450</a></b></h2>
+  <h2 style="text-align: center;" markdown="1"><b>Email Us:</b><a href="mailto:Bahay.AVERtek.SaresRegis@aptleasing.info?subject=Personal VIP Tour" "onclick="getOutboundLink('mailto:Bahay.AVERtek.SaresRegis@aptleasing.info?subject=Personal VIP Tour'); return false;"<b> VIP Tour</b></h2></a> 
+  <h2 style="text-align: center;" markdown="1"><a href="https://www.google.com/maps/place/330+N+Westlake+Ave,+Los+Angeles,+CA+90026/@34.0692644,-118.268848,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c70f1b57b7ed:0x4945085863849337!8m2!3d34.06926!4d-118.2666593" onclick="getOutboundLink('https://www.google.com/maps/place/330+N+Westlake+Ave,+Los+Angeles,+CA+90026/@34.0692644,-118.268848,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c70f1b57b7ed:0x4945085863849337!8m2!3d34.06926!4d-118.2666593'); return false;">330 N Westlake Ave., Los Angeles, CA 90026</a></h2> 
+  <br><br>
+  
+theme: jekyll-theme-minimal
+# Google Analytics
+google_analytics: UA-188164724-1 
